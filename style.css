@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+nav{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-right: 35px;
+    color: orange;
+    size: ;
+}
+nav h1{
+    padding-left: 30px;
+    color: white;
+}
+i{
+    font-size: 22px;
+}
+.bg{
+    height: 640px;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://plus.unsplash.com/premium_photo-1663050901483-ee8703cc8372?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGd5bSUyMHdvcmtvdXR8ZW58MHx8MHx8fDA%3D);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.power h1{
+    font-size: 45px;
+    color: white;
+}
+.power h1 span{
+    color: orange;
+}
+.power p{
+    color: whitesmoke;
+}
+.power button{
+    height: 60px;
+    width: 175px;
+    border-radius: 5px;
+    color: blue;
+    background-color: transparent;
+    border: 1px solid orange;
+}
+.power button:hover{
+    background-color: orange;
+    cursor: pointer;
+}
+.power{
+    height: 197px;
+    width: 727px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 120px;
+}
+.bg2{
+    height: 855px;
+    width: 1519px;
+    background-color: black;
+    display: flex;
+}
+.image{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.content{
+    margin-top: 265px;
+    margin-left: 160px;
+    width: 440px;
+}
+.bg2 span{
+    color: orange;
+}
+.bg2 h1{
+    color: white;
+    font-size: 40px;
+}
+.bg2 p{
+    color: white;
+    font-size: 16px;
+}
+.bg2 h2{
+    color: white;
+    font-size: 17px;
+}
+.threeimages{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 75px;
+}
+.oneimg img{
+    width: 250px;
+    height: 375px;
+    margin-bottom: 20px;
+}
+.twoimg img {
+    width: 250px;
+    height: 375px;
+    margin-bottom: 20px;
+}
+.threeimg img{
+    width: 250px;
+    height: 375px;
+    margin-bottom: 20px;
+}
+.bg3con{
+    margin-left: 475px;
+    margin-top: 100px;
+    margin-bottom: 140px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    width: 1515px;
+    height: 800px;
+}
+.orangebox{
+    width: 670px;
+    height: 570px;
+    background-color: orange;
+    border-radius: 4px;
+    margin-left: 420px;
+}
+form{
+    margin-left: 48px;
+    margin-top: 35px;
+}
+.contact .orangebox button{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: black;
+    border-radius: 4px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    margin-left: 240px;
+}
+.shortcon{
+    text-align: center;
+}
+.shortcon2{
+    text-align: center;
+}    
+
+
+
